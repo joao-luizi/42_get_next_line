@@ -49,14 +49,14 @@ The goal of this project is to implement a function that reads one line at a tim
 - Implemented multi-FD state handling (bonus)
 
 ## File Structure
-
+```cpp
 ├── get_next_line.c
 ├── get_next_line_utils.c
 ├── get_next_line.h
 ├── get_next_line_bonus.c
 ├── get_next_line_bonus.h
 ├── get_next_line_utils_bonus.c
-
+```
 ## Usage
 ```c
 #include "get_next_line.h"
